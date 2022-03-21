@@ -1,10 +1,48 @@
-Group,Title,Image,Description,Address,Latitude,Longitude,Found Address,Match Quality,Source
-a,Trinity College,https://www.edx.org/sites/default/files/trinity1.jpg,"Not in the link <a href=""http://www.trincoll.edu"" target=""_blank"">view website</a> more not in the link","300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-a,Wesleyan University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://wesleyan.edu"" target=""_blank"">view website</a>",45 Wyllys Ave Middletown CT 06459,41.55709,-72.65691,"45 WYLLYS AVE, MIDDLETOWN, CT, 06459",Exact,US Census
-a,Connecticut College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://conncoll.edu"" target=""_blank"">view website</a>","270 Mohegan Ave, New London CT",41.381435,-72.10469,"270 MOHEGAN AVE PKWY, NEW LONDON, CT, 06320",Match,US Census
-a,Yale University,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://yale.edu"" target=""_blank"">view website</a>",149 Elm St New Haven CT,41.309155,-72.92635,"149 ELM ST, NEW HAVEN, CT, 06511",Match,US Census
-a,University of Connecticut-Storrs,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://uconn.edu"" target=""_blank"">view website</a>","369 Fairfield Way, Storrs CT 06269",41.80665,-72.25352,"369 FAIRFIELD RD, STORRS, CT, 06269",Match,US Census
-a,Capital Community College,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""http://capitalcc.edu"" target=""_blank"">view website</a>",950 Main St Hartford CT,41.69861,-72.72414,"950 MAIN ST, HARTFORD, CT, 06111",Match,US Census
-b,Dinosaur State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.dinosaurstatepark.org/"" target=""_blank"">view website</a>",400 West St Rock Hill CT 06067,41.652546,-72.65743,"400 WEST ST, ROCKY HILL, CT, 06067",Match,US Census
-b,Hammonasset State Park,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,"<a href=""www.ct.gov/deep/hammonasset"" target=""_blank"">view website</a>","1288 Boston Post Road, Madison CT 06443",41.273247,-72.56934,"1288 BOSTON POST RD, MADISON, CT, 06443",Match,US Census
-c,State Capitol Building,https://upload.wikimedia.org/wikipedia/commons/4/41/You_are_here_-_T-shirt.jpg,State government office,"210 Capitol Ave, Hartford CT 06106",41.762848,-72.68245,"210 CAPITOL AVE, HARTFORD, CT, 06106",Exact,US Census
+REGION	Regional HQ	COUNTY	Scene	lat	lng	Branch Email Address	County Coordinator	 Phone Number	Town 	Location 
+COAST	Malindi	Kilifi	Malindi	-3.219186	40.116891	kilifi@redcross.or.ke	Cornel Ndombi	724020528	Kilifi town	 next to St. Thomas primary school
+COAST	Malindi	Lamu	Amu Island	-2.269558	40.900641	lamu@redcross.or.ke	Kawthar Mohamed	721681730	Amu Island	Lamu Rehabilitation center
+COAST	Malindi	Tana River	Hola	-1.503914	40.027416	tanariver@redcross.or.ke	Jerald Bombe	722303634	Hola	in hola near  catholic mission
+COAST	Malindi	Taita Taveta	Voi	-3.39731	38.555934	taitataveta@redcross.or.ke	Joram Oranga	728730717	Voi	Along KCB Bank, off Moi Referal Hospital Road, VAWUG Building
+COAST	Malindi	Kwale	Ukunda	-4.287918	39.565308	kwale@redcross.or.ke	Mohamed Mwaenzi	726125953	Ukunda	along likoni lunga lunga road next to biashara centre
+COAST	Malindi	Mombasa	Mombasa CBD	-4.050606	39.664746	mombasa@redcross.or.ke	Rajab Mohammed	721849088	Mombasa CBD	off moi avenue along aghakhan road,opposite UoN mombasa campus next to lions eye center at koblenz hall.
+UPPER EASTERN	Isiolo	Marsabit	Marsabit town	2.335497	37.994345	marsabit@redcross.or.ke	Sabdio Galgalo	727566057	Marsabit town	Located in the compound of St. Stephen training center same compound with FH. About 300 m east of marsabit market
+UPPER EASTERN	Isiolo	Samburu	Maralal	1.0931431	36.70183109	samburu@redcross.or.ke	Lydia Maina	716435148	Maralal	maralal opposite county commissioners office.
+UPPER EASTERN	Isiolo	Isiolo	Isiolo Town	0.355636	37.583306	isiolo@redcross.or.ke	Gregory Macharia	720920743	Isiolo Town	Off the Isiolo-Meru road opposite oil libya petrol station 2kms from isiolo town
+CENTRAL	Nyeri	Kiambu	Thika  town	-1.038757	37.083375	kiambu@redcross.or.ke	Brenda Kinya	705638570	Kiambu town	Thika town 
+CENTRAL	Nyeri	Muranga	Muranga town	-0.783928	37.040034	muranga@redcross.or.ke	Immaculate Iteba	716179761	Muranga town	Next to juvenile home, Murang'a town
+CENTRAL	Nyeri	Kirinyaga	Kerugoya	-0.499328	          37.278484	kirinyaga@redcross.or.ke	Martin Githua Kagunda	727820120	Kerugoya	Kerugoya Municiple Council office grounds
+CENTRAL	Nyeri	Laikipia	Nanyuki town	0.0074415	37.0722303	laikipia@redcross.or.ke	Joan Kinywa (ADMIN)	0718240220 	Nanyuki town	Majengo, Stadium road opposite DEB primary
+CENTRAL	Nyeri	Tharaka Nithi	Chuka Town	-0.322865	37.654627	tharakanithi@redcross.or.ke	Jerusha Nyagah	704509695	Chuka Town	Chuka town, next to huduma centre
+CENTRAL	Nyeri	Embu	Embu town	-0.538838	37.459641	embu@redcross.or.ke	Pauline Mureithi	725117268	Embu town	Embu town off mama ngina street along kws road..500metres from kws offices next to embu urban primary and secondary school
+CENTRAL	Nyeri	Meru	Meru Town	0.051472	37.645604	meru@redcross.or.ke	Denis were  	701144664 	Meru Town	North Imenti CDF building -off mwendantu road,  100 meters from tuskys Meru.
+CENTRAL	Nyeri	Nyeri	Nyeri 	-0.427781	36.943359	nyeri@redcross.or.ke	Rose Muriithi	722774693	Nyeri	Next to Boma Inn. Opposite ruringu Stadium
+SOUTH RIFT	Nakuru	Baringo	Marigat	0.469472	35.983274	baringo@redcross.or.ke	Caleb Kibet 	700387323	Marigat	along nakuru- loruk road adjacent to ministry of health lab next to marigat pri.and AIC fellowship church
+SOUTH RIFT	Nakuru	Kericho	Kericho town	-0.368897	35.286286	kericho@redcross.or.ke	Siphia Tuwei	729373867	Kericho town	Along law Court. Via MOi Road, temple road kericho, ministry of information building.
+SOUTH RIFT	Nakuru	Nakuru	Nakuru Town	-0.2833	36.0667	nakuru@redcross.or.ke	Elizabeth Achieng	727540883	Nakuru Town	Ronald Ngala road Next to mama Ngina primary school.
+SOUTH RIFT	Nakuru	Narok	Narok Town	-1.087543	35.877064	narok@redcross.or.ke	Benedicto Omondi	721297550	Narok Town	Naivas C57
+SOUTH RIFT	Nakuru	Nyandarua	Olkalau	-0.272699	36.3775152	olkalou@redcross.or.ke	Kenneth Nelson	727221342	Olkalau	Olkalou town housed by CDF olkalou Constituency
+SOUTH RIFT	Nakuru	Bomet	Bomet town	-0.272699	36.3775152	bomet@redcross.or.ke	Robert   Yegon 	727725954	Bomet town	Office located along Narok Kaplong Highway inside the Bomet County Assembly offices
+NORTH EASTERN	Garrisa 	Garissa	Garissa Town	-0.453229	39.646099	garissa@redcross.or.ke	Mohamed Dubow 	722 507119	Garissa Town	Location next to minsitry of works.
+NORTH EASTERN	Garrisa 	Wajir	Wajir	1.748839	40.058633	wajir@redcross.or.ke	Abdia Adan	724474194	Wajir	next to wajir stadium
+NORTH EASTERN	Garrisa 	Mandera	Mandera Town	3.935639	41.855116	mandera@redcross.or.ke	Mustafa Aden	720059344	Mandera Town	ALONG Suftu road behind County Commissioner's resident adjacent to Mandera county referral hospital. 
+WEST KENYA	Kisumu Milimani	Kakamega 	Kakamega town 	0.282731	34.751863	kakamega@redcross.or.ke 	Euphresia Musundi 	711927217 	Kakamega town	housed with county govt ministry of environment kotecha plaza 5th floor
+WEST KENYA	Kisumu Milimani	Kisumu 	Kondele near level 5 hospital 	-0.078611	34.776841	kisumu@redcross.or.ke 	George Opidi 	723573420 	Kondele near level 5 hospital	the branch is located at behind Jaramogi Oginga Odinga Refferral Hospital next to Mortuary
+WEST KENYA	Kisumu Milimani	Homabay 	Homa Bay 	-0.535043	34.453097	homabay@redcross.or.ke 	Samwel Omondi 	702049149 	Homa Bay	kabunde along homabay rongo road 6km from homabay town
+WEST KENYA	Kisumu Milimani	Vihiga 	Vihiga 	0.092104	34.729877	vihiga@redcross.or.ke 	Edwin Lahalwa 	0740702038/0711460663 	Vihiga	at the county comissioners office 4th floor room 422
+WEST KENYA	Kisumu Milimani	Migori 	Migori 	-1.070698	34.475272	migori@redcross.or.ke 	Kevin Ondiek 	728990838 	Migori	next to the governor's residence opposite former BAT
+WEST KENYA	Kisumu Milimani	Kisii 	Kisii Town 	-0.677334	34.779603	kisii@redcross.or.ke 	Wycliffe Likhaya 	0725781411 	Kisii Town	hosted by KATC premises next to kisii school on your way to Nairobi
+WEST KENYA	Kisumu Milimani	Siaya 	Siaya town 	0.062629	34.287808	siaya@redcross.or.ke 	James Akello 	720462268 	Siaya town	along hospital road behind the county commisioners office
+WEST KENYA	Kisumu Milimani	Busia 	Busia Town 	0.460769	34.111462	busia@redcross.or.ke 	Partrick Lwango 	714309912 	Busia Town	busia- mayenje ward, along busia mundika road, through busia referral hospital adjusent to farmview hotel.
+WEST KENYA	Kisumu Milimani	Nyamira 	Nyamira town 	-0.566941	34.934123	nyamira@redcross.or.ke 	Timothy Kabeka 	710880142 	Nyamira town	next to the governor's office opposite KCB bank nyamira
+NORTH RIFT R	Eldoret	Bungoma	Bungoma town	0.569525	34.558377	bungoma@redcross.or.ke	Loreen Orembo	701353347	Bungoma town	along kanduyi-malaba road opposite bungoma stadium
+NORTH RIFT R	Eldoret	Nandi	Tinderet/kapsabet	-0.030441	35.346625	nandi@redcross.or.ke	Julius Sang	722227131	Tinderet/kapsabet	located in the county referral hospital under the maintenance department
+NORTH RIFT R	Eldoret	Turkana	Lodwar	3.115516	35.604078	turkana@redcross.or.ke	Rukia Abubakar	720248626	Lodwar	located along lodwar lorugum road in Nakwamekwi area
+NORTH RIFT R	Eldoret	West Pokot	Kapenguria	1.248193	35.110374	westpokot@redcross.or.ke	Scholstic Jelangat Kapello	726743594	Kapenguria	next to kenya police head quarters kapenguria division
+NORTH RIFT R	Eldoret	Uasin Gishu	Eldoret	0.514278	35.26978	uasingishu@redcross.or.ke	Alice Njari 	711133268	Eldoret	In chinese Race course along eldoret international airport route
+NORTH RIFT R	Eldoret	Elgeyo Marakwet	Iten	0.673235	35.508314	marakwet@redcross.or.ke	Abraham K.  Cheruiyot	720903030	Iten	
+NORTH RIFT R	Eldoret	Trans Nzoia	Transnzoia	1.021852	35.001501	transnzoia@redcross.or.ke	Ruth Miningwo	722530639	Transnzoia	adjacent to Trans Nzoia public service board near St Anthony Boys
+LOWER EASTERN	Machakos	Nairobi	Nyayo House 9th flr	-1.287075	36.818172	nairobicounty@redcross.or.ke	Patience Kitonga	722462407	Nyayo House 9th flr	Nyayo House 9th Floor. (Next to GPO) Kenyatta Avenue
+LOWER EASTERN	Machakos	Machakos	Machakos town	-1.517684	37.263415	machakos@redcross.or.ke	Susan Sili	700707003	Machakos town	Red Cross Complex Building. (Next to A.C.K All- Soul’s Cathedral)
+LOWER EASTERN	Machakos	Kajiado	Kajiado Central	-1.842073	36.79186	kajiado@redcross.or.ke	James Lesika 	728366234	Kajiado Central	Nairobi- Namanga Road (Opposite Maasai Technical Institute)
+LOWER EASTERN	Machakos	Makueni	Wote	-1.788625	37.63334	makueni@redcross.or.ke	Evans Peter	704058992	Wote	Wote- Makindu Highway (Opposite the Office of the Governor)
+LOWER EASTERN	Machakos	Kitui	Kitui Town	-1.375081	37.995214	kitui@redcross.or.ke	Tiko Dennis	728178303	Kitui Town	Kitui- Kwa Ngindu Road (Next to the County Commissioner&#39;s residence)
